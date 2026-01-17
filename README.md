@@ -929,16 +929,14 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ### Portfolio & Professional Links
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
-- **Portfolio Website**: https://yourportfolio.com
-- **Research Gate**: [Your Profile](https://researchgate.net/profile/yourprofile)
+- **GitHub**: [@abdullahsajid-dev](https://github.com/abdullahsajid-dev)
+- **LinkedIn**: [Abdullah Sajid](https://www.linkedin.com/in/abdullahsajiddev/)
+- **Email**: abdullahsajid.dev@gmail.com
 
 ### Project Maintainer
 
-**[Your Name]**  
-*Machine Learning Engineer | Cybersecurity Specialist*
+**Abdullah Sajid**  
+*AI Engineer | Data Scientist*
 
 ---
 
@@ -1010,3 +1008,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 **Last Updated**: January 17, 2026  
 **Version**: 1.0.0  
 **Status**: ✅ Production Ready
+
